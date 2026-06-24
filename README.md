@@ -8,3 +8,10 @@ Pagina web que ayudara con el analisis de reforestacion del estado de Nayarit
 Nombre Autor:
 
 David Grande Ibarra
+
+
+PROXIMAS MEJORAS:
+
+Integracion de IA
+Interfaz mas intuitiva
+
